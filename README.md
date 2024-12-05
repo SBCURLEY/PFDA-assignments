@@ -68,8 +68,8 @@ Using python, import the following as per notebook
 
 ## References
 
-1. image_01     [Airelogic.com/data-and-analytics](https://www.airelogic.com/data-and-analytics)
-2. image_02     [Mercy University](https://www.mercy.edu/sites/default/files/styles/1600x700/public/2020-07/iStock-1150199386.jpg?h=6510ad6e&itok=kyPCa_AE)
+###### 1. image_01     [Airelogic.com/data-and-analytics](https://www.airelogic.com/data-and-analytics)
+###### 2. image_02     [Mercy University](https://www.mercy.edu/sites/default/files/styles/1600x700/public/2020-07/iStock-1150199386.jpg?h=6510ad6e&itok=kyPCa_AE)
 
 
 ## About Author
