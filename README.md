@@ -3,7 +3,7 @@
 **By Sharon Curley (G00438863@atu.ie)**
 
 <p align="center">
-    <img width="612" height="408" src="./images/image_02.png" alt="Sublime's custom image"/>
+    <img width="1000" height="408" src="./images/image_02.png" alt="Sublime's custom image"/>
 </p>
 
 ![Image from Mercy University](./images/image_02.png)
