@@ -2,11 +2,9 @@
 
 **By Sharon Curley (G00438863@atu.ie)**
 
- "<p align=\"center\">\n",
-    "    <img width=\"1100\" height=\"500\" src=\"./images/image_02.png\" alt=\"Sublime's custom image\"/\n",
-    "    >\n",
-    "    </p>"
-
+<p align="center">
+    <img width="612" height="408" src="./images/image_02.png" alt="Sublime's custom image"/>
+</p>
 
 ![Image from Mercy University](./images/image_02.png)
 
