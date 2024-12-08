@@ -50,19 +50,19 @@ Using python, import the following as per notebook
 
 ## Repository Structure
 
-*1. images*
+**1. images**
 
    This folder contains all the images used in the Project, README & Assignments.
 
-*2. gitignore*
+**2. gitignore**
 
    This gitignore file specifies intentionally untracked files that Git should ignore.
 
-*3. README*
+***3. README**
 
    This file serves as the first point of contact for users and developers who want to understand the purpose, setup, and usage of my repository.
 
-*4. assignment2-weather.ipynb*
+**4. assignment2-weather.ipynb**
    
    This notebook has a plot of the temperature over time with a min and max
 
@@ -73,7 +73,7 @@ Using python, import the following as per notebook
    - Plot the data
    - References
 
-*5. assignment03-pie.ipynb*
+**5. assignment03-pie.ipynb**
    
    This notebook contains a pie chart of peoples email domains in a csv file from a specific url. 
 
@@ -85,36 +85,36 @@ Using python, import the following as per notebook
    - Plot the data
    - References
 
-*6. assignment_5_risk.ipynb*
+**6. assignment_5_risk.ipynb**
    
    This program simulates 1000 individual battle rounds in Risk (3 attacker vs 2 defender) and plots the result.
 
    The assignment is divided into the following sections
-    - Import Libraries
-    - Rules of Risk
-    - The Game
-    - Plot the Results
-    - References
+   - Import Libraries
+   - Rules of Risk
+   - The Game
+   - Plot the Results
+   - References
 
-*7. assignment_6_Weather .ipynb*
+**7. assignment_6_Weather.ipynb**
 
    This notebook uses Knock weather data to create useful plots from data sets. 
 
    The assignment is divided into the following sections
-    - About the Assignment
-    - Import Libraries
-    - Load Data
-    - Analysis:This notebook plots the following from a weather data link:
-      - The temperature
-      - The mean temperature each day
-      - The mean temperature for each month
-      - The windspeed (there is data missing from this column)
-      - The rolling windspeed (say over 24 hours)
-      - The max windspeed for each day
-      - The monthly mean of the daily max windspeeds (yer I am being nasty here)
+   - About the Assignment
+   - Import Libraries
+   - Load Data
+   - Analysis:This notebook plots the following from a weather data link:
+     - The temperature
+     - The mean temperature each day
+     - The mean temperature for each month
+     - The windspeed (there is data missing from this column)
+     - The rolling windspeed (say over 24 hours)
+     - The max windspeed for each day
+     - The monthly mean of the daily max windspeeds (yer I am being nasty here)
 
 
-## References 
+## References
 
 #### Please note References are shared with each assignment notebook for context. 
 
