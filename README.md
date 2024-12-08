@@ -58,7 +58,7 @@ Using python, import the following as per notebook
 
    This gitignore file specifies intentionally untracked files that Git should ignore.
 
-***3. README**
+**3. README**
 
    This file serves as the first point of contact for users and developers who want to understand the purpose, setup, and usage of my repository.
 
@@ -116,7 +116,7 @@ Using python, import the following as per notebook
 
 ## References
 
-#### Please note References are shared with each assignment notebook for context. 
+#### Please note References are shared within each assignment notebook for context. 
 
 - Matplotlib Line Charts – Learn all you need to know   https://datagy.io/matplotlib-line-charts/#:~:text=Matplotlib%20makes%20it%20incredibly%20easy%20to%20add%20a%20simple%20line
 - pandas.to_datetime   https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.to_datetime.html
